@@ -5,11 +5,67 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Odín Recetas</title>
+
+    <style>
+        body {
+            background-color: #fff4cf;
+        }
+
+        h1, h2 {
+            text-align: center;
+        }
+
+        .menu {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: space-evenly;
+            padding-top: 50px;
+        }
+        .menu-entrada {
+          display: block;
+          width: 30%;
+          border-radius: 8px;
+          background-color: #f2f2f2;
+          border: solid 1px #db6e1f;
+          box-shadow: inset 0 0 10px gray;
+        }  
+        
+        .menu-entrada img {
+            width: 100%;
+            border-radius: 8px 8px 0 0;
+            cursor: pointer;
+        }
+
+        .menu-entrada img:hover {
+            opacity: 0.8;
+        }
+    </style>
 </head>
 <body>
     <h1>Odín Recetas</h1> 
-    <a href="recipes/enchiladas-verdes.html">Enchiladas Verdes</a>
-    <a>Pollo a la..</a>
+<section class="menu">
+    <div class="menu-entrada">
+        <a href="recipes/enchiladas-verdes.html">
+        <img src="./img/enchiladas.jpg" alt="Ricas enchiladas verdes con pollo."/></a>
+        <h2>Enchiladas Verdes</h2>
+    </div>
     
+    <div class="menu-entrada">
+        <a href="recipes/enchiladas-verdes.html">
+        <img src="./img/enchiladas.jpg" alt="Ricas enchiladas 
+    verdes con pollo."/></a>
+        <h2>Enchiladas Verdes</h2>
+    </div>
+
+    <div class="menu-entrada">
+        <a href="recipes/enchiladas-verdes.html">
+        <img src="./img/enchiladas.jpg" alt="Ricas enchiladas 
+    verdes con pollo."/></a>
+        <h2>Enchiladas Verdes</h2>
+    </div>
+
+
+</section>
 </body>
 </html>
