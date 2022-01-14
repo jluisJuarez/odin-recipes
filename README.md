@@ -1,0 +1,1 @@
+Esta es la práctica para la creación de un recetario elemental utilizando HTML
