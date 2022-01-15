@@ -1,0 +1,29 @@
+[33mcommit 486d2533b79e5fd22661e9eb820864686cca8d98[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: José Luis <jluis84.dsw@gmail.com>
+Date:   Fri Jan 14 21:54:48 2022 -0600
+
+    Se crearon las páginas de cochinita-pibil.html  y pozole-blanco.html, se finalizaron los enlaces e insertaron las imágenes correspondientes
+
+[33mcommit 3003a5736aba6ce48101155ebcc33612c4417989[m
+Author: José Luis <jluis84.dsw@gmail.com>
+Date:   Fri Jan 14 02:18:33 2022 -0600
+
+    Se crearon los enlaces entre páginas index.html y enchiladas-verdes.html
+
+[33mcommit 431ba2e3ecda02f4d04e9336cb0686912c1492c0[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: José Luis <jluis84.dsw@gmail.com>
+Date:   Fri Jan 14 00:05:02 2022 -0600
+
+    se crearon las páginas de index.html, enchiladas-verdes.html y carpetas correspondientes
+
+[33mcommit 98e7b7b173e79addc162e6ce33ca1b81f4fa962d[m
+Author: José Luis <jluis84.dsw@gmail.com>
+Date:   Thu Jan 13 20:43:35 2022 -0600
+
+    Se creó el archivo README.md con la descripción del prototipo
+
+[33mcommit d96f3d7926388f1c080f7b8dfbfe9ab63b2a8096[m
+Author: José Luis <jluis84.dsw@gmail.com>
+Date:   Thu Jan 13 20:34:05 2022 -0600
+
+    Add README.md
